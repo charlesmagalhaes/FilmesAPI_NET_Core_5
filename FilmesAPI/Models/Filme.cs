@@ -8,7 +8,7 @@ namespace FilmesAPI.Models
 {
     public class Filme
     {
-        public int id { get; set; }
+        public int Id { get; set; }
         [Required(ErrorMessage = "O campo título é obrigatório")]
         public string Titulo { get; set; }
         [Required(ErrorMessage = "O campo diretor é obrigatório")]
