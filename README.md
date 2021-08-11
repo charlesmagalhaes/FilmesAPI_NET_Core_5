@@ -8,6 +8,8 @@ API Rest com conexão com o MySQL em NET Core 5
 1. Visual Studio 2019;
 2. Linguagem C# para desenvolvimento do backend;
 3. Insomnia para fazer o teste http;
+4. MySQL Workbench
+5. Mapper para converter os objetos
 
 ## Como "startar" a aplicação
 1. Clonar o projeto no diretório de sua preferência;
